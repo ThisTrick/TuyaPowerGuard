@@ -204,4 +204,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Include your license information here]
+[MIT](https://github.com/ThisTrick/TuyaPowerGuard/tree/master?tab=MIT-1-ov-file#readme)
